@@ -80,6 +80,7 @@ const Hero = () => {
 		 alt="left-leaf"
 		 className="left-leaf"
 		/>
+		
 		<img
 		 src="/images/hero-right-leaf.png"
 		 alt="right-leaf"
